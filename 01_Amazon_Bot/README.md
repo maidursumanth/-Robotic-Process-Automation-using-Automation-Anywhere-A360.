@@ -32,6 +32,8 @@ Extract product information (name / price / rating if implemented)<br>
 Store data (optional: CSV or Excel)<br>
 Close browser<br>
 
+![Amazon Bot Workflow](01_Amazon_Bot/Amazon_bot.png)
+
 
 
 
