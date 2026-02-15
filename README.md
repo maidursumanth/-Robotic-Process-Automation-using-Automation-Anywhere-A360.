@@ -1,5 +1,8 @@
 RPA Projects – Automation Anywhere : <br>
 
+![Project Screenshot](https://github.com/user-attachments/assets/3a4f4627-6a0e-444b-9783-c549c51bf04e)
+
+
 This repository contains multiple RPA projects developed using Automation Anywhere Community Edition.<br>
 
 Projects Included<br>
