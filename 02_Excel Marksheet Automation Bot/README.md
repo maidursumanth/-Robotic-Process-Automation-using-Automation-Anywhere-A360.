@@ -32,5 +32,6 @@ Save and close the file<br>
 📊 Pass/Fail Logic (Example)<br>
 
 If marks ≥ 50 → Pass<br>
-<br>
 If marks < 50 → Fail<br>
+
+
